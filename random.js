@@ -136,7 +136,7 @@ function createThirdScene() {
    makeText("Get your tan on man", 0, 100, 25, "sans-serif", "navy", 0.4)
         }else{
             makeText("soowooo", 0, 100, 25, "sans-serif", "navy", 0.4)
-        }
+        } 
    makeEllipse(460,255,300,200, "black")
 makeEllipse(450,250,300,200, "orange")
 makeEllipse(440,200,70,40,"blue")
